@@ -1,0 +1,42 @@
+.li-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.timeAccessed {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 700;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.title {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 700;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.logos {
+  height: 46px;
+  width: 46px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.domain {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 550;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.delete {
+  height: 46px;
+  width: 46px;
+}
